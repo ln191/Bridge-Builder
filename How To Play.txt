@@ -1,0 +1,13 @@
+-Description-
+
+The goal of the game is help our hero over to the other side, by tumble a brige of the rigth length.
+
+-Instructions-
+
+Hold SPACE to increase bridge length , Let go of SPACE to tumble the brigde. 
+
+Tryk TAB for show/hide highscore list.
+
+Tryk 'R' to restart the game when you lose.
+
+Tryk 'T' to add your score to the highscore list, when you have lost. ATTENTION:you have write your name in the console window!
